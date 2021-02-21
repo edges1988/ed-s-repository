@@ -1,2 +1,4 @@
 # ed-s-repository
-For myself
+Hi everyone
+
+All chnages are made successfully
